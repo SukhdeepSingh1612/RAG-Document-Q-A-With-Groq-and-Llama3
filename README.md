@@ -3,6 +3,8 @@
 
 This is a Streamlit-based web application that enables users to query a set of PDF research papers using Retrieval-Augmented Generation (RAG). It utilizes the **LLaMA 3 (8B)** model from **Groq** for fast and intelligent responses, and **OpenAI embeddings** for semantic search, stored using **FAISS**.
 
+### Deployed on Streamlit : https://rag-document-q-a-with-groq-and-llama3-8emryu2nsnveftqnq8tesb.streamlit.app/
+
 ---
 
 ## 🚀 Features
